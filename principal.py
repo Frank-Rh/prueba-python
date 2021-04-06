@@ -8,7 +8,7 @@ from colorama import *
 os.system("cls || clear") # limpiar consola
 print(Fore.BLUE + "1 ver el estado de tu conexion") # imprimira en color azul
 print("")
-x = input("Selecciona la opcion 1-1") #selecionar opcion
+x = input("Selecciona la opcion 1-1: ") #selecionar opcion
 
 if x == "1": #si la opcion es 1
     print(Fore.MAGENTA + "Porfavor espere....") # imprimira en la consola con color magenta
